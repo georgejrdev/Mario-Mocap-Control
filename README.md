@@ -58,7 +58,7 @@ Projeto desenvolvido para estudo e demonstração em uma Feira de Ciências, faz
 	https://www.mediafire.com/file/5qq2f4sop8b7knf/Mario+Fit.rar/file
 
 #### Bibliotecas:
-	pip install opencv
+	pip install opencv-python
 	pip install mediapipie
 
 #### Jogo + Tutorial:

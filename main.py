@@ -1,11 +1,8 @@
 import cv2
 
-from screen import *
-from position import *
-from commands import *
+from src import *
 
-
-VIDEO_PATH = "/home/george/Downloads/video.mp4"
+VIDEO_PATH = "video.mp4"
 VIDEO_SIZE = (640, 480)
 
 screen = start_screen(VIDEO_PATH, VIDEO_SIZE)

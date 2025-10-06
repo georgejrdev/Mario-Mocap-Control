@@ -69,7 +69,7 @@ Projeto desenvolvido para estudo e demonstração em uma Feira de Ciências, faz
 ### Desenvolvido por:
 
 #### https://github.com/lenicio 
-#### https://github.com/NoxusJr
+#### https://github.com/georgejrdev
 #### https://github.com/KeaKzinho
 #### https://github.com/FernandoIzidio
 
